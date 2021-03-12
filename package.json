@@ -1,0 +1,11 @@
+{
+  "name": "yerkegul_assaiyn_endterm",
+  "version": "1.0.0",
+  "description": "End-term project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yerkegul Assaiyn",
+  "license": "ISC"
+}
